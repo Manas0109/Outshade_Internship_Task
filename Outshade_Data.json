@@ -1,7 +1,5 @@
 [
  {
- "users": [
- {
  "name": "Krishna",
  "id": "1",
  "atype": "Permanent"
@@ -72,5 +70,3 @@
  "atype": "Temproary"
  }
  ]
- }
-]
